@@ -1,2 +1,3 @@
-print "hello" ex;
-this should break $$
+print "one";
+print true;
+print 2 + 1;
